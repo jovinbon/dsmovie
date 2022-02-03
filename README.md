@@ -16,8 +16,8 @@ seguida ele preencherá a pontuação ente 1 e 5 (numéros de valores para o ran
 
 Observação: ao clicar no link do projeto acima você será direcionado para a página inicial, aguarde uns minutos para que a página carregue!
 
-## Layout do dashboard
-![Tela dashboard](https://github.com/jovinbon/assets/blob/main/dashbordvendas.png)
+## Layout
+![Tela de catálago](https://github.com/jovinbon/assets/blob/main/daspageaded.png)
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/jovinbon/assets/blob/main/modeloconceitual.png)
