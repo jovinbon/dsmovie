@@ -37,7 +37,8 @@ Observação: ao clicar no link do projeto acima você será direcionado para a 
 - Maven
 ## Front end
 - HTML / CSS / JS / TypeScript
-- ReactJS
+- ReactJS (useState, useEffect, Props)
+- Axious
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
