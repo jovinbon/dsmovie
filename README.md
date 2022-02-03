@@ -22,7 +22,7 @@ Observação: ao clicar no link do projeto acima você será direcionado para a 
 ![Tela de formulário de avaliação](https://github.com/jovinbon/assets/blob/main/dsmovieform.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](https://github.com/jovinbon/assets/blob/main)
+![Modelo Conceitual](https://github.com/jovinbon/assets/blob/main/dsmovie-dominio.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -33,9 +33,6 @@ Observação: ao clicar no link do projeto acima você será direcionado para a 
 ## Front end
 - HTML / CSS / JS / TypeScript
 - ReactJS
-- React Native
-- Apex Charts
-- Expo
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
@@ -48,7 +45,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/jovinbon/projeto-sds3
+git clone https://github.com/jovinbon/dsmovie
 
 # entrar na pasta do projeto back end
 cd backend
@@ -62,7 +59,7 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/jovinbon/projeto-sds3
+git clone https://github.com/jovinbon/dsmovie
 
 # entrar na pasta do projeto front end web
 cd frontend
