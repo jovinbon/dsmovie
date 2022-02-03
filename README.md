@@ -1,5 +1,5 @@
 # DSMovie
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jovinbon/dsmovie/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/jovinbon/dsmovie/blob/main/LICENSE) 
 
 #### [Meu certificado](https://learn.devsuperior.com/certificados/2132952)
 
