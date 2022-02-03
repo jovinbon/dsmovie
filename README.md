@@ -23,6 +23,9 @@ Observação: ao clicar no link do projeto acima você será direcionado para a 
 #### Página de formulário de avaliação
 ![Tela de formulário de avaliação](https://github.com/jovinbon/assets/blob/main/dsmovieform.png)
 
+#### Score de um filme (as estrelas em cor dourada representa o score atual)
+![Tela score](https://github.com/jovinbon/assets/blob/main/dsmoviescore.png)
+
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/jovinbon/assets/blob/main/dsmovie-dominio.png)
 
