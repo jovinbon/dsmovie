@@ -10,9 +10,9 @@ https://cfdsmovie.netlify.app
 DSMovie é uma aplicação full stack web construída durante o evento **Semana Spring React 6.0** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em um catálago de filmes onde o usuário restrito poderá escolher um filme para ser avaliado. 
-Cada filme mostrado (bunner/imagem) na lista paginada contem 5 estrelas representando seu score de avaliação. A cor preenchida em dourada nas estrelas identifica sua pontuação ou score atual.
+Cada filme mostrado (banner/imagem) na lista paginada contém 5 estrelas representando seu score de avaliação. A cor preenchida em dourada nas estrelas identifica sua pontuação ou score atual.
 Ao clicar no botão "Avaliar" o  usuário será direcionado para a página de formulário de avaliação onde ele digitará o seu e-mail (desde que este esteja credenciado no sistema) e em
-seguida ele preencherá a pontuação ente 1 e 5 (numéros de valores para o score) e clicar no botão "Salvar" para efetivar a avaliação e ao mesmo tempo ele é retornado para apágina principal do catálago.
+seguida ele preencherá a pontuação entre 1 e 5 (numéros de valores para o score) e clicar no botão "Salvar" para efetivar a avaliação e ao mesmo tempo ele é retornado para apágina principal do catálago.
 
 Observação: ao clicar no link do projeto acima você será direcionado para a página inicial, aguarde uns minutos para que a página carregue!
 
